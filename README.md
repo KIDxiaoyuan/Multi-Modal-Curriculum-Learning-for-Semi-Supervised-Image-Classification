@@ -1,4 +1,4 @@
-# graduate-student-poj
+# Multi-Modal-Curriculum-Learning-for-Semi-Supervised-Image-Classification
 the Python version for
 <Multi-Modal Curriculum Learning for Semi-Supervised Image Classification>
 IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 25, NO. 7, JULY 2016
