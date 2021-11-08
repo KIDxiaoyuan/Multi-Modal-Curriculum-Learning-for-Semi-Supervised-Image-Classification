@@ -7,7 +7,7 @@ Wei Liu, Member, IEEE, Guoliang Kang, and Jie Yang
  the code is not orginal!
   use two veiws: text and img feature
   
-  The original paper used three modalities for label classification, and the accuracy rate reached more than 98% at a label rate of 50%.
+  The original paper used three modalities for label classification, and the accuracy rate reached more than 98% at a label rate of 50% for200samples.
 This code is modified for two modalities. There may be errors. The accuracy rate is more than 75% under the label rate of 5% for 1000 samples.
 It is recommended to standardize the features before replacing them.
 If you have any questions about the algorithm, please contact the original author for consultation
@@ -16,7 +16,7 @@ The detailed data set description will be added later.
 Problems with the current code Regarding the large-scale sample data set that cannot be created, we have a solution to the problem, but it has not been made public yet.
 Please continue to pay attention to subsequent updates.
   
-  原来的论文中使用了三种模态进行标签分类 在50%的标签率下准确率达到了98%以上
+  原来的论文中使用了三种模态进行标签分类 在200个样本50%的标签率下准确率达到了98%以上
 本代码修改为了两种模态 可能存在错误 在1000个样本5%的标签率下准确率达到了75%以上
 建议在替换特征前对特征进行标准化处理。
 如果你对算法有问题请联系原文作者咨询
