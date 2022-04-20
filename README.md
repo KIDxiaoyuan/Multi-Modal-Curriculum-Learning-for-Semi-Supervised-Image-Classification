@@ -4,7 +4,7 @@ the Python version for
 IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 25, NO. 7, JULY 2016
   Chen Gong, Dacheng Tao, Fellow, IEEE, Stephen J. Maybank, Fellow, IEEE,
 Wei Liu, Member, IEEE, Guoliang Kang, and Jie Yang
- the code is not orginal!
+
   use two veiws: text and img feature
   
   The original paper used three modalities for label classification, and the accuracy rate reached more than 98% at a label rate of 50% for200samples.
